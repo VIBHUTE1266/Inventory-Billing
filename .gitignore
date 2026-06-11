@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Mac
+*.swp
+
+# build outputs
+dist/
+build/
+
+# lockfiles (optional)
+# package-lock.json
+
+# Ignore nested node_modules
+**/node_modules/
